@@ -1,0 +1,2 @@
+rootProject.name='MyMvvMHabitDemo'
+include ':app', ':mvvmhabit'
